@@ -23,10 +23,11 @@ python3.6+
 
 - openpyxl
 - argparse
+- gzip (только для версии скрипта для KUMA 4.2)
 
 # Совместимость
 
-Скрипт проверен на ресурсах KUMA 2.1.1.73 и KUMA 3.2.0.305
+Скрипт проверен на ресурсах KUMA 2.1.1.73 и KUMA 3.2.0.305. **Для KUMA 4.2 используйте скрипты из директории 4.2 репозитория.**
 
 # Описание работы
 
@@ -36,7 +37,7 @@ python3.6+
 
 ```git clone https://github.com/koalapower/mapping_extractor```
 
-Либо просто скачайте файлы `mapping_extractor.py` и `kuma_package.py`.
+Либо просто скачайте файлы `mapping_extractor.py` и `kuma_package.py`. **Для KUMA версии 4.2 используйте скрипты из директории 4.2.**
 
 # Использование
 
